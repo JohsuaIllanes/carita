@@ -1,0 +1,108 @@
+*{margin: 0px}
+.parte1{
+    background-color: red;
+    width: 250px;
+    height: 120px;
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+.parte2{
+    background-color: red;
+    width: 550px;
+    height: 120px;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    border-radius: 100%;
+}
+.cara1{
+    background-color: rgb(247, 190, 140);
+    width: 450px;
+    height: 450px;
+    position: relative;
+    top: 200px;
+    left: 590px;
+    border-radius: 100%;
+}
+.ojo1{
+    background-color: rgb(255, 255, 255);
+    width: 130px;
+    height: 130px;
+    position: relative;
+    top: 110px;
+    left: 50px;
+    border-radius: 100%;
+}
+.pupila1{
+        background-color: rgb(0, 0, 0);
+        width: 60px;
+        height: 60px;
+        position: relative;
+        top: 50px;
+        left: 50px;
+        border-radius: 100%;
+}
+.ojo2{
+    background-color: rgb(255, 255, 255);
+    width: 130px;
+    height: 130px;
+    position: relative;
+    top: -20px;
+    left: 250px;
+    border-radius: 100%;
+}
+.pupila2{
+    background-color: rgb(0, 0, 0);
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    border-radius: 100%;
+}
+.labios1{
+        background-color: rgb(184, 140, 101);
+        width: 260px;
+        height: 80px;
+        position: absolute;
+        top: 300px;
+        left: 100px;
+        border-radius: 90%;
+}
+.boca1{
+    background-color: rgb(59, 44, 29);
+        width: 150px;
+        height: 50px;
+        position: absolute;
+        top: 15px;
+        left: 60px;
+        border-radius: 90%;
+}
+.corbata1{
+    background-color: rgb(0, 255, 191);
+    width: 300px;
+    height: 80px;
+    position: relative;
+    top: 150px;
+    left: 520px;
+    border-radius: 100%;
+}
+.corbata2{
+    background-color: rgb(0, 255, 191);
+    width: 300px;
+    height: 80px;
+    position: relative;
+    top: 2px;
+    left: 300px;
+    border-radius: 100%;
+}
+.corbata3{
+    background-color: rgb(0, 255, 191);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -80px;
+    left: 250px;
+    border-radius: 100%;
+}
